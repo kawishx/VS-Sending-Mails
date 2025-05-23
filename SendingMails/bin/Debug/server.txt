@@ -1,0 +1,3 @@
+ip=mail.renukagroup.com
+port=587
+password=IFsR@#2024Z

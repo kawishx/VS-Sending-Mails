@@ -1,0 +1,13 @@
+D:\Sending Mails\SendingMails\SendingMails\obj\Release\ResolveAssemblyReference.cache
+D:\Sending Mails\SendingMails\SendingMails\obj\Release\SendingMails.Form1.resources
+D:\Sending Mails\SendingMails\SendingMails\obj\Release\SendingMails.Resources.resources
+D:\Sending Mails\SendingMails\SendingMails\obj\Release\SendingMails.vbproj.GenerateResource.Cache
+D:\Sending Mails\SendingMails\SendingMails\bin\Release\SendingMails.exe
+D:\Sending Mails\SendingMails\SendingMails\bin\Release\SendingMails.pdb
+D:\Sending Mails\SendingMails\SendingMails\bin\Release\SendingMails.xml
+D:\Sending Mails\SendingMails\SendingMails\obj\Release\SendingMails.exe
+D:\Sending Mails\SendingMails\SendingMails\obj\Release\SendingMails.xml
+D:\Sending Mails\SendingMails\SendingMails\obj\Release\SendingMails.pdb
+\\192.168.100.95\Sending Mails\SendingMails\SendingMails\obj\Release\SendingMails.exe
+\\192.168.100.95\Sending Mails\SendingMails\SendingMails\obj\Release\SendingMails.xml
+\\192.168.100.95\Sending Mails\SendingMails\SendingMails\obj\Release\SendingMails.pdb

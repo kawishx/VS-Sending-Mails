@@ -1,0 +1,297 @@
+D:\Sending Mails\SendingMails\SendingMails\bin\Debug\SendingMails.exe
+D:\Sending Mails\SendingMails\SendingMails\bin\Debug\SendingMails.pdb
+D:\Sending Mails\SendingMails\SendingMails\bin\Debug\SendingMails.xml
+D:\Sending Mails\SendingMails\SendingMails\obj\Debug\ResolveAssemblyReference.cache
+D:\Sending Mails\SendingMails\SendingMails\obj\Debug\SendingMails.Form1.resources
+D:\Sending Mails\SendingMails\SendingMails\obj\Debug\SendingMails.Resources.resources
+D:\Sending Mails\SendingMails\SendingMails\obj\Debug\SendingMails.vbproj.GenerateResource.Cache
+D:\Sending Mails\SendingMails\SendingMails\obj\Debug\SendingMails.exe
+D:\Sending Mails\SendingMails\SendingMails\obj\Debug\SendingMails.xml
+D:\Sending Mails\SendingMails\SendingMails\obj\Debug\SendingMails.pdb
+D:\Sending Mails\Stock Age FG\SendingMails\obj\Debug\SendingMails.exe
+D:\Sending Mails\Stock Age FG\SendingMails\obj\Debug\SendingMails.xml
+D:\Sending Mails\Stock Age FG\SendingMails\obj\Debug\SendingMails.pdb
+D:\Sending Mails\Stock Age FG\SendingMails\bin\Debug\SendingMails.exe
+D:\Sending Mails\Stock Age FG\SendingMails\bin\Debug\SendingMails.pdb
+D:\Sending Mails\Stock Age FG\SendingMails\bin\Debug\SendingMails.xml
+D:\Sending Mails\Stock Age FG\SendingMails\obj\Debug\ResolveAssemblyReference.cache
+D:\Sending Mails\Stock Age FG\SendingMails\obj\Debug\SendingMails.Form1.resources
+D:\Sending Mails\Stock Age FG\SendingMails\obj\Debug\SendingMails.Resources.resources
+D:\Sending Mails\Stock Age FG\SendingMails\obj\Debug\SendingMails.vbproj.GenerateResource.Cache
+D:\Sending Mails\itemreject\SendingMails\obj\Debug\SendingMails.exe
+D:\Sending Mails\itemreject\SendingMails\obj\Debug\SendingMails.xml
+D:\Sending Mails\itemreject\SendingMails\obj\Debug\SendingMails.pdb
+D:\Sending Mails\itemreject\SendingMails\bin\Debug\SendingMails.exe
+D:\Sending Mails\itemreject\SendingMails\bin\Debug\SendingMails.pdb
+D:\Sending Mails\itemreject\SendingMails\bin\Debug\SendingMails.xml
+D:\Sending Mails\itemreject\SendingMails\obj\Debug\ResolveAssemblyReference.cache
+D:\Sending Mails\itemreject\SendingMails\obj\Debug\SendingMails.Form1.resources
+D:\Sending Mails\itemreject\SendingMails\obj\Debug\SendingMails.Resources.resources
+D:\Sending Mails\itemreject\SendingMails\obj\Debug\ResGen.read.1.tlog
+D:\Sending Mails\itemreject\SendingMails\obj\Debug\ResGen.write.1.tlog
+D:\Sending Mails\itemreject-BC\SendingMails\obj\Debug\SendingMails.exe
+D:\Sending Mails\itemreject-BC\SendingMails\obj\Debug\SendingMails.xml
+D:\Sending Mails\itemreject-BC\SendingMails\obj\Debug\SendingMails.pdb
+D:\Sending Mails\itemreject-BC\SendingMails\bin\Debug\SendingMails.exe
+D:\Sending Mails\itemreject-BC\SendingMails\bin\Debug\SendingMails.pdb
+D:\Sending Mails\itemreject-BC\SendingMails\bin\Debug\SendingMails.xml
+D:\Sending Mails\itemreject-BC\SendingMails\obj\Debug\ResolveAssemblyReference.cache
+D:\Sending Mails\itemreject-BC\SendingMails\obj\Debug\SendingMails.Form1.resources
+D:\Sending Mails\itemreject-BC\SendingMails\obj\Debug\SendingMails.Resources.resources
+D:\Sending Mails\itemreject-BC\SendingMails\obj\Debug\ResGen.read.1.tlog
+D:\Sending Mails\itemreject-BC\SendingMails\obj\Debug\ResGen.write.1.tlog
+E:\itemreject-BC\SendingMails\obj\Debug\SendingMails.exe
+E:\itemreject-BC\SendingMails\obj\Debug\SendingMails.xml
+E:\itemreject-BC\SendingMails\obj\Debug\SendingMails.pdb
+E:\Price_changes\SendingMails\obj\Debug\SendingMails.exe
+E:\Price_changes\SendingMails\obj\Debug\SendingMails.xml
+E:\Price_changes\SendingMails\obj\Debug\SendingMails.pdb
+E:\Price_changes\SendingMails\bin\Debug\SendingMails.exe
+E:\Price_changes\SendingMails\bin\Debug\SendingMails.pdb
+E:\Price_changes\SendingMails\bin\Debug\SendingMails.xml
+E:\Price_changes\SendingMails\obj\Debug\SendingMails.Form1.resources
+E:\Price_changes\SendingMails\obj\Debug\SendingMails.Resources.resources
+E:\Price_changes\SendingMails\obj\Debug\SendingMails.vbproj.GenerateResource.Cache
+E:\Price_changes\SendingMails\obj\Debug\SendingMails.vbprojResolveAssemblyReference.cache
+E:\sending emails\doc_man\SendingMails\obj\Debug\SendingMails.exe
+E:\sending emails\doc_man\SendingMails\obj\Debug\SendingMails.xml
+E:\sending emails\doc_man\SendingMails\obj\Debug\SendingMails.pdb
+E:\sending emails\doc_man\SendingMails\bin\Debug\SendingMails.exe
+E:\sending emails\doc_man\SendingMails\bin\Debug\SendingMails.pdb
+E:\sending emails\doc_man\SendingMails\bin\Debug\SendingMails.xml
+E:\sending emails\doc_man\SendingMails\obj\Debug\SendingMails.vbprojResolveAssemblyReference.cache
+E:\sending emails\doc_man\SendingMails\obj\Debug\SendingMails.Form1.resources
+E:\sending emails\doc_man\SendingMails\obj\Debug\SendingMails.Resources.resources
+E:\sending emails\doc_man\SendingMails\obj\Debug\SendingMails.vbproj.GenerateResource.Cache
+E:\sending emails\SO\SendingMails\obj\Debug\SendingMails.exe
+E:\sending emails\SO\SendingMails\obj\Debug\SendingMails.xml
+E:\sending emails\SO\SendingMails\obj\Debug\SendingMails.pdb
+E:\sending emails\SO\SendingMails\bin\Debug\SendingMails.exe
+E:\sending emails\SO\SendingMails\bin\Debug\SendingMails.pdb
+E:\sending emails\SO\SendingMails\bin\Debug\SendingMails.xml
+E:\sending emails\SO\SendingMails\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\sending emails\SO\SendingMails\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\sending emails\SO\SendingMails\bin\Debug\CrystalDecisions.Shared.dll
+E:\sending emails\SO\SendingMails\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\sending emails\SO\SendingMails\bin\Debug\System.Web.Services.dll
+E:\sending emails\SO\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\sending emails\SO\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\sending emails\SO\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\sending emails\SO\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\sending emails\SO\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\sending emails\SO\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\sending emails\SO\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\sending emails\SO\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\sending emails\SO\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\sending emails\SO\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\sending emails\SO\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\sending emails\SO\SendingMails\bin\Debug\FlashControlV71.dll
+E:\sending emails\SO\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\sending emails\SO\SendingMails\bin\Debug\stdole.dll
+E:\sending emails\SO\SendingMails\bin\Debug\ShockwaveFlashObjects.dll
+E:\sending emails\SO\SendingMails\obj\Debug\SendingMails.vbprojAssemblyReference.cache
+E:\sending emails\SO\SendingMails\obj\Debug\SendingMails.Form1.resources
+E:\sending emails\SO\SendingMails\obj\Debug\SendingMails.Resources.resources
+E:\sending emails\SO\SendingMails\obj\Debug\SendingMails.vbproj.GenerateResource.cache
+E:\sending emails\SO\SendingMails\obj\Debug\SendingMails.vbproj.CoreCompileInputs.cache
+E:\sending emails\SO\SendingMails\obj\Debug\SendingMails.vbproj.CopyComplete
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\SendingMails.exe
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\SendingMails.pdb
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\SendingMails.xml
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.Shared.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\System.Web.Services.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\FlashControlV71.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\stdole.dll
+E:\sending emails\SO_Eff\SendingMails\bin\Debug\ShockwaveFlashObjects.dll
+E:\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.vbprojAssemblyReference.cache
+E:\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.Form1.resources
+E:\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.Resources.resources
+E:\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.vbproj.GenerateResource.cache
+E:\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.vbproj.CoreCompileInputs.cache
+E:\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.vbproj.CopyComplete
+E:\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.exe
+E:\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.xml
+E:\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.pdb
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\SendingMails.exe
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\SendingMails.pdb
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\SendingMails.xml
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.Shared.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\stdole.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\ShockwaveFlashObjects.dll
+E:\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.Form1.resources
+E:\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.Resources.resources
+E:\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.vbproj.GenerateResource.cache
+E:\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.vbproj.CoreCompileInputs.cache
+E:\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.vbproj.CopyComplete
+E:\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.exe
+E:\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.xml
+E:\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.pdb
+D:\sending mails\SO_Eff\SendingMails\obj\Debug\SendingMails.exe
+D:\sending mails\SO_Eff\SendingMails\obj\Debug\SendingMails.xml
+D:\sending mails\SO_Eff\SendingMails\obj\Debug\SendingMails.pdb
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\SendingMails.exe.config
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.Web.dll
+E:\development\sending emails\SO_Eff\SendingMails\bin\Debug\AxShockwaveFlashObjects.dll
+E:\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.vbprojAssemblyReference.cache
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\SendingMails.exe.config
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\SendingMails.exe
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\SendingMails.pdb
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\SendingMails.xml
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.Shared.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.Web.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\AxShockwaveFlashObjects.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\ShockwaveFlashObjects.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\bin\Debug\stdole.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.Form1.resources
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.Resources.resources
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.vbproj.GenerateResource.cache
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.vbproj.CoreCompileInputs.cache
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.vbproj.CopyComplete
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.exe
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.xml
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\SO_Eff\SendingMails\obj\Debug\SendingMails.pdb
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\SendingMails.exe.config
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\SendingMails.exe
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\SendingMails.pdb
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\SendingMails.xml
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\ShockwaveFlashObjects.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\stdole.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\obj\Debug\SendingMails.vbprojAssemblyReference.cache
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\obj\Debug\SendingMails.Form1.resources
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\obj\Debug\SendingMails.Resources.resources
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\obj\Debug\SendingMails.vbproj.GenerateResource.cache
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\obj\Debug\SendingMails.vbproj.CoreCompileInputs.cache
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\obj\Debug\SendingMails.vbproj.CopyComplete
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\obj\Debug\SendingMails.exe
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\obj\Debug\SendingMails.xml
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\obj\Debug\SendingMails.pdb
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.Shared.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.Web.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\AxShockwaveFlashObjects.dll
+D:\OneDrive - Renuka Group\Nishani\development1\development\sending emails\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\SendingMails.exe.config
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\SendingMails.exe
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\SendingMails.pdb
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\SendingMails.xml
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.Shared.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.Web.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\bin\Debug\stdole.dll
+C:\Kawish Data\Document\milk_loss\SendingMails\obj\Debug\SendingMails.vbproj.AssemblyReference.cache
+C:\Kawish Data\Document\milk_loss\SendingMails\obj\Debug\SendingMails.Form1.resources
+C:\Kawish Data\Document\milk_loss\SendingMails\obj\Debug\SendingMails.Resources.resources
+C:\Kawish Data\Document\milk_loss\SendingMails\obj\Debug\SendingMails.vbproj.GenerateResource.cache
+C:\Kawish Data\Document\milk_loss\SendingMails\obj\Debug\SendingMails.vbproj.CoreCompileInputs.cache
+C:\Kawish Data\Document\milk_loss\SendingMails\obj\Debug\SendingM.FB2A4AE6.Up2Date
+C:\Kawish Data\Document\milk_loss\SendingMails\obj\Debug\SendingMails.exe
+C:\Kawish Data\Document\milk_loss\SendingMails\obj\Debug\SendingMails.xml
+C:\Kawish Data\Document\milk_loss\SendingMails\obj\Debug\SendingMails.pdb
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\SendingMails.exe.config
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\SendingMails.exe
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\SendingMails.pdb
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\SendingMails.xml
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.Shared.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.Web.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\bin\Debug\stdole.dll
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\obj\Debug\SendingMails.vbproj.AssemblyReference.cache
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\obj\Debug\SendingMails.Form1.resources
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\obj\Debug\SendingMails.Resources.resources
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\obj\Debug\SendingMails.vbproj.GenerateResource.cache
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\obj\Debug\SendingMails.vbproj.CoreCompileInputs.cache
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\obj\Debug\SendingM.FB2A4AE6.Up2Date
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\obj\Debug\SendingMails.exe
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\obj\Debug\SendingMails.xml
+C:\Kawish Data\Document\ShipTrackerMailing\SendingMails\obj\Debug\SendingMails.pdb
